@@ -1,2 +1,2 @@
-# Web-Content-Mining
+# Scrapping Using Scrapy (spiders)
 news clustering
